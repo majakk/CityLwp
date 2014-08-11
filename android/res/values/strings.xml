@@ -2,5 +2,9 @@
 <resources>
 
     <string name="app_name">CityLwp</string>
+    <string name="prefs_summ_category_one">summa</string>
+    <string name="prefs_category_one">ett</string>
+    <string name="prefs_summ_category_two">mumma</string>
+    <string name="prefs_category_two">two</string>
 
 </resources>
